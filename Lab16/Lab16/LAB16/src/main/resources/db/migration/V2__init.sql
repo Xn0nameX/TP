@@ -1,0 +1,1 @@
+UPDATE users set password='{bcrypt}$2a$12$6ArujQ2NqJfubvRWhX.Id.3WqqGKGxmjH8IGAjkw3dtSwDBBBNalu' where username='admin';
